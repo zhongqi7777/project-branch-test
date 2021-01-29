@@ -5,3 +5,5 @@ feature branch commit 3
 feature branch commit 4
 
 feature branch commit 5
+
+feature4 branch commit 6

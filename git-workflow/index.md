@@ -40,7 +40,7 @@ git push origin :refs/tags/<tagname>
 ### view remote tags
 git ls-remote --tags
 
-## git rebase 成功之后撤销操作
+## git rebase 成功之后撤销操作 master
 
 git reflog 
 

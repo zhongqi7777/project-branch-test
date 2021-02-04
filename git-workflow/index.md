@@ -16,7 +16,6 @@ git remote update origin --prune
 
 git remote update origin -p
 
-
 ## tag
 
 ### view tag list
@@ -49,6 +48,7 @@ git reflog
 git reset --hard 
 
  
+
 
 
 

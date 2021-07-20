@@ -16,7 +16,6 @@ git remote update origin --prune
 
 git remote update origin -p
 
-
 ## tag
 
 ### view tag list
@@ -40,14 +39,10 @@ git push origin :refs/tags/<tagname>
 ### view remote tags
 git ls-remote --tags
 
-## git rebase 成功之后撤销操作 master
+
+## git rebase 成功之后撤销操作 master dev
+
 
 git reflog 
 
 git reset --hard 
-
- 
-
-
-
-
